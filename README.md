@@ -1,5 +1,9 @@
 # Frontend Mentor - Interactive rating component
 
+Please check the below link to visit the LIVE PAGE of the Project:
+
+[GitHub Live Page - Interactive rating component - Sree Mouli Chinta](https://sreemoulichinta.github.io/frontendMentor-interactiveRating/)
+
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
